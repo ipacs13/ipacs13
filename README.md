@@ -1,2 +1,2 @@
-###🎉 Mc Wilford Paclar — Full-Stack Developer & Creative Builder
+🎉 Mc Wilford Paclar — Full-Stack Developer & Creative Builder
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mc%20Wilford%20Paclar&fontSize=55&fontAlignY=40&color=gradient&customColorList=0,2,5,10" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78FEE&width=500&lines=Full+Stack+Developer;Tech+Explorer;Builder+of+Cool+Things;AI+Tinkerer;Creative+Problem+Solver" /> </p>
